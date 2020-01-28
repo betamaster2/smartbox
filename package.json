@@ -1,0 +1,23 @@
+{
+	"name": "SmartBox",
+	"date": "2020.01.28",
+	"version": "1.0.0",
+	"description": "SmartBox - Программа которая предоставляет комфортный просмотр сайтов на устройствах с функцией Smart TV.",
+	"author": {
+		"name": "BetaMaster"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/betamaster2/smartbox.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "SmartBox",
+		"legacy": true,
+		"description": "SmartBox - Программа которая предоставляет комфортный просмотр сайтов на устройствах с функцией Smart TV.",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
